@@ -9,3 +9,7 @@ Project Uller is a Python-based scrapper that aims to collect images from variou
 3. ~~Download images from these pages with generic code~~
 4. ~~Refactory the code~~
 5. Connect to database
+6. Send data from database
+7. Get data from database
+8. Separe db information on a file.txt
+8. Create interface to use all functions
